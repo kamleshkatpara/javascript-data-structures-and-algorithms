@@ -1,5 +1,3 @@
-/* LinkedList */
-
 function LinkedList() { 
     var length = 0; 
     var head = null; 
